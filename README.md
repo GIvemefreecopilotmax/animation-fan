@@ -26,4 +26,5 @@ Kinda done
 **Kingshark0712**
 
 <img width="1031" height="725" alt="Screenshot 2026-11-08 203756" src="https://github.com/user-attachments/assets/5090cb05-9539-4962-bc63-a643591e2227" />
-<img width="1142" height="838" alt="Screenshot 2026-11-08 191202" src="https://github.com/user-attachments/assets/665af08c-9d1f-4a55-9a5a-dd60c9548328" />
+<img width="787" height="646" alt="Screenshot 2026-11-08 193155" src="https://github.com/user-attachments/assets/76831ed1-b8a1-420d-a0dc-3b45c773f355" />
+
